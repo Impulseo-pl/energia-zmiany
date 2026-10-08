@@ -60,7 +60,7 @@ LAYOUT = """<!doctype html>
 <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400;1,9..144,500&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/styles.css?v={vcss}">
 <script type="application/ld+json">{{"@context":"https://schema.org","@type":"ProfessionalService","name":"ENERGIA ZMIANY Wojciech Łysik","url":"{base}","telephone":"{tel}","email":"{mail}","founder":{{"@type":"Person","name":"Wojciech Łysik"}},"address":{{"@type":"PostalAddress","streetAddress":"ul. Oliwkowa 54","postalCode":"07-230","addressLocality":"Adelin","addressCountry":"PL"}},"areaServed":"PL","openingHours":"Mo-Su 08:00-20:00"}}</script>
 </head>
